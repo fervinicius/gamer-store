@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 <p align="center">
-    <img src="../gamer-store/src/images/gamer-store.png" alt="Página inicial da gamer store" width="200px" />
+    <img src="../gamer-store/src/images/gamer-store.png" alt="Página inicial da gamer store" width="400px" />
 </p>
 
 ## Getting Started
